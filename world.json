@@ -1,0 +1,141 @@
+{
+  "title": "Template V10",
+  "id": "templateworld-v10",
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "2.1.5",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-test2-ddb-backgrounds",
+      "path": "packs/ddb-test2-ddb-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-test2-ddb-classes",
+      "path": "packs/ddb-test2-ddb-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-test2-ddb-subclasses",
+      "path": "packs/ddb-test2-ddb-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-test2-ddb-class-features",
+      "path": "packs/ddb-test2-ddb-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-test2-ddb-feats",
+      "path": "packs/ddb-test2-ddb-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-test2-ddb-items",
+      "path": "packs/ddb-test2-ddb-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-test2-ddb-monsters",
+      "path": "packs/ddb-test2-ddb-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-test2-ddb-vehicles",
+      "path": "packs/ddb-test2-ddb-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-test2-ddb-races",
+      "path": "packs/ddb-test2-ddb-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-test2-ddb-racial-traits",
+      "path": "packs/ddb-test2-ddb-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-test2-ddb-spells",
+      "path": "packs/ddb-test2-ddb-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-test2-ddb-tables",
+      "path": "packs/ddb-test2-ddb-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-test2-ddb-override",
+      "path": "packs/ddb-test2-ddb-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-test2-ddb-adventures",
+      "path": "packs/ddb-test2-ddb-adventures.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "description": "<p>Novo mundo</p>",
+  "nextSession": "2023-05-22T21:41:00.000Z"
+}
